@@ -5,7 +5,7 @@
 $subject = 'My Form Response';
 
 // Your email address. This is where the form information will be sent.
-$emailadd = 'you@yourdomain.com;
+$emailadd = 'you@yourdomain.com';
 
 // From email address. This is who the form information will be sent from.
 $email_from = $_POST['email'];
